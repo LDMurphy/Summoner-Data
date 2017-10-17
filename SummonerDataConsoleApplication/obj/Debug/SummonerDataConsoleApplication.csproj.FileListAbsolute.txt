@@ -1,0 +1,15 @@
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\SummonerDataConsoleApplication.exe.config
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\SummonerDataConsoleApplication.exe
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\SummonerDataConsoleApplication.pdb
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\SummonerData.dll
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\SummonerData.pdb
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\obj\Debug\SummonerDataConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\obj\Debug\SummonerDataConsoleApplication.exe
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\obj\Debug\SummonerDataConsoleApplication.pdb
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\RiotAPIManager.dll
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\RiotAPIManager.pdb
+C:\Users\Liam\Documents\Visual Studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\SummonerManager.dll
+C:\Users\Liam\Documents\Visual Studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\bin\Debug\SummonerManager.pdb
+C:\Users\Liam\Documents\Visual Studio 2015\Projects\SummonerData\SummonerDataConsoleApplication\obj\Debug\SummonerDataConsoleApplication.csproj.CoreCompileInputs.cache

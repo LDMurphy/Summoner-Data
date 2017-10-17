@@ -1,0 +1,10 @@
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\obj\Debug\RiotAPIManager.csprojResolveAssemblyReference.cache
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\bin\Debug\RiotAPIManager.dll
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\bin\Debug\RiotAPIManager.pdb
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\bin\Debug\Newtonsoft.Json.dll
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\bin\Debug\SummonerData.dll
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\bin\Debug\SummonerData.pdb
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\bin\Debug\Newtonsoft.Json.xml
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\obj\Debug\RiotAPIManager.dll
+c:\users\liam\documents\visual studio 2015\Projects\SummonerData\RiotAPIManager\obj\Debug\RiotAPIManager.pdb
+C:\Users\Liam\Documents\Visual Studio 2015\Projects\SummonerData\RiotAPIManager\obj\Debug\RiotAPIManager.csproj.CoreCompileInputs.cache
