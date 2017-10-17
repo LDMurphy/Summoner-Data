@@ -7,7 +7,7 @@ namespace SummonerData
 {
     public class RiotAPIManager
     {
-        private const string Key = "RGAPI-ce9e562a-5d63-48b7-9400-ec8b7316dbd5";
+        private const string Key = "";
 
         /// <summary>Gets the URL response.</summary>
         /// <param name="sURL">The s URL.</param>
